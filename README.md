@@ -8,5 +8,7 @@ C=19
 C=float(C)
 AC=C-A
 BC=C-B
+L=AC+BC
 print(AC)
 print(BC)
+print(L)
